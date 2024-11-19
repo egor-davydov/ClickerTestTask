@@ -4,23 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffa9cf4-9494-4ef3-a5a2-454a595ae9cb" name="Changes" comment="" />
+    <list default="true" id="7ffa9cf4-9494-4ef3-a5a2-454a595ae9cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClickerTestTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClickerTestTask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/FluXY/Resources/Materials/Splat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/FluXY/Resources/Materials/Splat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/FluXY/Scripts/FluxyContainer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/FluXY/Scripts/FluxyContainer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/InputSystem_Actions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
+    </list>
+    <list id="b07518dd-1e12-4486-b7cb-b48f16145c47" name="Temp List" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/82a2fd073ee449928e161903460426d72ae00/49/b7379336/DOTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/82a2fd073ee449928e161903460426d72ae00/6e/e85a91db/DOTweenSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b5bf0c891ea345fe93688f835df32fdc1dda00/98/2af28c25/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dce28debe6614a5386ef7e0e16e9752d11400/9e/d8c73a7e/DOTweenSettingsInspector.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Programms/Unity Editor/6000.0.26f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/TMP/TMP_ResourcesManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Util/ActionInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2p3nAdyhy9d1IqzeYk4zEverQGJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,12 +103,104 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7ffa9cf4-9494-4ef3-a5a2-454a595ae9cb" name="Changes" comment="" />
+      <changelist id="b07518dd-1e12-4486-b7cb-b48f16145c47" name="tenp" comment="" />
       <created>1732003488033</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732003488033</updated>
       <workItem from="1732003492632" duration="1712000" />
+      <workItem from="1732010843880" duration="8856000" />
+      <workItem from="1732092286466" duration="8178000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1732010982114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732010982114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="import zenject, unitask, dotween">
+      <option name="closed" value="true" />
+      <created>1732020612370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732020612370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="import zenject, unitask, dotween">
+      <option name="closed" value="true" />
+      <created>1732021075470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732021075470</updated>
+    </task>
+    <task id="LOCAL-00004" summary="import zenject, unitask, dotween">
+      <option name="closed" value="true" />
+      <created>1732021395515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732021395515</updated>
+    </task>
+    <task id="LOCAL-00005" summary="import zenject, unitask, dotween">
+      <option name="closed" value="true" />
+      <created>1732023303377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732023303377</updated>
+    </task>
+    <task id="LOCAL-00006" summary="import zenject, unitask, dotween">
+      <option name="closed" value="true" />
+      <created>1732023426396</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732023426396</updated>
+    </task>
+    <task id="LOCAL-00007" summary="import zenject, unitask, dotween, fluxy">
+      <option name="closed" value="true" />
+      <created>1732029327810</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029327810</updated>
+    </task>
+    <task id="LOCAL-00008" summary="import zenject, unitask, dotween">
+      <option name="closed" value="true" />
+      <created>1732029760425</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029760425</updated>
+    </task>
+    <task id="LOCAL-00009" summary="import fluxy">
+      <option name="closed" value="true" />
+      <created>1732029816342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029816342</updated>
+    </task>
+    <task id="LOCAL-00010" summary="import fluxy">
+      <option name="closed" value="true" />
+      <created>1732029927840</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029927840</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add base mechanic">
+      <option name="closed" value="true" />
+      <created>1732029998982</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029998982</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +209,25 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="import zenject, unitask, dotween, fluxy" />
+    <MESSAGE value="import zenject, unitask, dotween" />
+    <MESSAGE value="import fluxy" />
+    <MESSAGE value="add base mechanic" />
+    <option name="LAST_COMMIT_MESSAGE" value="add base mechanic" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
