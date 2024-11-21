@@ -1,4 +1,5 @@
 using System;
+using Code.Data;
 using Cysharp.Threading.Tasks;
 using Fluxy;
 using UnityEngine;
@@ -12,14 +13,14 @@ namespace Code.Gameplay
     [SerializeField] private FluxyTarget _fluxyTarget;
     
     private Camera _camera;
-    private ulong _clicksCount;
+    private ClicksData _clicksCount;
 
-    public event Action<ulong> OnCountChanged;
+    public event Action<ClicksData> OnCountChanged;
 
-    public ulong ClicksCount
+    public ClicksData ClicksCount
     {
       get => _clicksCount;
-      private set
+      set
       {
         if (_clicksCount == value)
           return;
@@ -27,6 +28,8 @@ namespace Code.Gameplay
         OnCountChanged?.Invoke(_clicksCount);
       }
     }
+
+    public ClicksData ClicksInOneClick { get; set; } = new(1);
 
     private void Awake()
     {
@@ -39,7 +42,7 @@ namespace Code.Gameplay
       Vector3 worldPoint = _camera.ScreenToWorldPoint(clickPosition);
       //Debug.Log($"Click pos={clickPosition}; worldPoint={worldPoint}");
       _fluxyTarget.transform.position = new Vector3(worldPoint.x, worldPoint.y, 0);
-      ++ClicksCount;
+      ClicksCount += ClicksInOneClick;
 
       _fluxyTarget.color = _clickColor.GetClickColor();
       Splat().Forget();
