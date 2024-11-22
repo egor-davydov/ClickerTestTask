@@ -4,16 +4,17 @@ using UnityEngine;
 
 namespace Code.UI.Elements.Upgrades
 {
-  public class ClicksInOneClickUpgrade : UpgradeButton
+  public class AutoClickUpgrade : UpgradeButton
   {
+    [SerializeField] private AutoClick _autoClick;
     [SerializeField] private Click _click;
-    
+
     public ClicksData ClicksToAdd { get; } = new(1);
 
     public override void OnClick()
     {
       base.OnClick();
-      _click.ClicksInOneClick += ClicksToAdd;
+      _autoClick.ClicksInAutoClick += ClicksToAdd;
       _click.ClicksCount -= PriceData;
       PriceData *= new ClicksData(3);
     }
