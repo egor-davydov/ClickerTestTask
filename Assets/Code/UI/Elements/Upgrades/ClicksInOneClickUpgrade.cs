@@ -17,7 +17,7 @@ namespace Code.UI.Elements.Upgrades
       
       _click.ClicksInOneClick += ClicksToAdd;
       _click.ClicksCount -= PriceData;
-      PriceData *= new ClicksData(4);
+      PriceData *= new ClicksData(3);
     }
   }
 }
