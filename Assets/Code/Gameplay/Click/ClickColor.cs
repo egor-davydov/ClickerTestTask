@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Code.Extensions;
 using UnityEngine;
 
-namespace Code.Gameplay
+namespace Code.Gameplay.Click
 {
   public class ClickColor : MonoBehaviour
   {

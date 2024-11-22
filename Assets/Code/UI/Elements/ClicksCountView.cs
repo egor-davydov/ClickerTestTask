@@ -1,5 +1,5 @@
 using Code.Data;
-using Code.Gameplay;
+using Code.Gameplay.Click;
 using TMPro;
 using UnityEngine;
 

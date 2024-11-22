@@ -4,7 +4,7 @@ using Cysharp.Threading.Tasks;
 using Fluxy;
 using UnityEngine;
 
-namespace Code.Gameplay
+namespace Code.Gameplay.Click
 {
   public class Click : MonoBehaviour
   {

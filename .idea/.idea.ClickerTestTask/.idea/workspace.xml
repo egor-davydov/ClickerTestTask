@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ffa9cf4-9494-4ef3-a5a2-454a595ae9cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClickerTestTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClickerTestTask/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Gameplay/Click.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Gameplay/Click.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Gameplay/ClickInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Gameplay/ClickInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/FluXY/Resources/Textures/SplatTexture.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/FluXY/Resources/Textures/SplatTexture.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
-    </list>
+    <list default="true" id="7ffa9cf4-9494-4ef3-a5a2-454a595ae9cb" name="Changes" comment="" />
     <list id="b07518dd-1e12-4486-b7cb-b48f16145c47" name="Temp List" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +103,7 @@
       <workItem from="1732003492632" duration="1712000" />
       <workItem from="1732010843880" duration="8856000" />
       <workItem from="1732092286466" duration="18631000" />
-      <workItem from="1732189271612" duration="11743000" />
+      <workItem from="1732189271612" duration="16381000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -227,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732126925494</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add ClicksInOneClick upgrade">
+      <option name="closed" value="true" />
+      <created>1732223584987</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732223584988</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,26 +253,8 @@
     <MESSAGE value="import fluxy" />
     <MESSAGE value="add" />
     <MESSAGE value="add base mechanic" />
-    <option name="LAST_COMMIT_MESSAGE" value="add base mechanic" />
+    <MESSAGE value="add ClicksInOneClick upgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ClicksInOneClick upgrade" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Code/Gameplay/ClickInput.cs</url>
-          <line>39</line>
-          <properties documentPath="M:\Projects\Unity\ClickerTestTask\Assets\Code\Gameplay\ClickInput.cs" initialLine="39" containingFunctionPresentation="Method 'IsPointerOverUIObject'">
-            <startOffsets>
-              <option value="1015" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1046" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

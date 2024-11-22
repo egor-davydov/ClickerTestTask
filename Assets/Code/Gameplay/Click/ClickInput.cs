@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace Code.Gameplay
+namespace Code.Gameplay.Click
 {
   public class ClickInput : MonoBehaviour
   {

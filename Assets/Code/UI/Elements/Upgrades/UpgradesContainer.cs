@@ -1,5 +1,5 @@
 using Code.Data;
-using Code.Gameplay;
+using Code.Gameplay.Click;
 using UnityEngine;
 
 namespace Code.UI.Elements.Upgrades
