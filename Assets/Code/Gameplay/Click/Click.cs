@@ -35,7 +35,7 @@ namespace Code.Gameplay.Click
     {
       _clickInput.Started += ClickStarted;
       _camera = Camera.main;
-      ClicksCount = new ClicksData(150);
+      ClicksCount = new ClicksData(0);
     }
 
     private void ClickStarted(Vector2 clickPosition)
